@@ -1,3 +1,5 @@
+/*  The image and page header are inline-block to make them side-by-side  */
+
 #logo {
     display: inline-block;
 }
